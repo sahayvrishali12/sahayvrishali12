@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vrishali! 👋
 
-<!--
-**sahayvrishali12/sahayvrishali12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on time series forecasting projects.
+- 🌱 I’m learning data science, machine learning, and Python.
+- 💻 I enjoy coding, solving problems, and building useful projects.
+- 📫 How to reach me: [Email me](mailto:sahayvrishali12@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python | Pandas | NumPy | Matplotlib
+- Time Series Analysis
+- Data Structures & Algorithms (DSA) | C Programming
+- Docker
+
+## Projects
+- [Air Quality Forecasting](https://github.com/sahayvrishali12/time-series-air-quality-forecasting)
+
+## Fun Fact
+- ⚡ I love coffee ☕ and coding late into the night!
+
+---
+
+Thanks for stopping by! Feel free to connect 😊
