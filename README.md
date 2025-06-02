@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on time series forecasting projects.
 - 🌱 I’m learning data science, machine learning, and Python.
 - 💻 I enjoy coding, solving problems, and building useful projects.
-- 📫 How to reach me: [Email me](mailto:sahayvrishali12@example.com)
+- 📫 How to reach me: [Email me](mailto:sahayvrishali@gmail.com)
 
 ## Skills
 - Python | Pandas | NumPy | Matplotlib
