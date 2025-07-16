@@ -1,25 +1,31 @@
-# Hi, I'm Vrishali! 👋
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3)-fotor-bg-remover-2025071611463.png?raw=true" alt="Vrishali Sahay" width="250"/>
+</p>
 
-Welcome to my GitHub profile!
+<h1 align="center">Vrishali Sahay</h1>
 
-## About Me
-- 🔭 I’m currently working on time series forecasting projects.
-- 🌱 I’m learning data science, machine learning, and Python.
-- 💻 I enjoy coding, solving problems, and building useful projects.
-- 📫 How to reach me: [Email me](mailto:sahayvrishali@gmail.com)
+### About Me
 
-## Skills
-- Python | Pandas | NumPy | Matplotlib
-- Time Series Analysis
-- Data Structures & Algorithms (DSA) | C Programming
-- Docker
+I am a first-year B.Tech Computer Science and Engineering student at UPES.  
+Currently, I serve as the Editorial Head of the UPES ACM-W Student Chapter, where I lead the development of inclusive and impactful content that supports diversity in technology.  
+This role has strengthened my skills in leadership, communication, and community engagement.
 
-## Projects
-- [Air Quality Forecasting](https://github.com/sahayvrishali12/time-series-air-quality-forecasting)
+### Interests
 
-## Fun Fact
-- ⚡ I love coffee ☕ and coding late into the night!
+- Responsible and ethical use of Artificial Intelligence  
+- Research and innovation  
+- Community building  
+- Diversity and inclusion in technology  
+
+### Contact
+
+- GitHub: [sahayvrishali12](https://github.com/sahayvrishali12)  
+- LinkedIn: [vrishalis](https://www.linkedin.com/in/vrishalis)  
+- Medium (Blogs): [@sahayvrishali](https://medium.com/@sahayvrishali)  
+- Email: sahayvrishali@gmail.com
 
 ---
 
-Thanks for stopping by! Feel free to connect 😊
+"Technology should empower, not exclude."  
+— Vrishali Sahay
