@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3)-fotor-bg-remover-2025071611463.png?raw=true" alt="Vrishali Sahay" width="250"/>
+  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3).png?raw=true" alt="Vrishali Sahay" width="250"/>
 </p>
 
 ### About Me
