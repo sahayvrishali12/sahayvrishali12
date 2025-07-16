@@ -1,7 +1,9 @@
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3).png?raw=true" alt="Vrishali Sahay" width="250"/>
-</p>
+<!-- Full-width Image -->
+<div align="center">
+  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3).png?raw=true" alt="Vrishali Sahay" style="width:100%; max-width:900px;" />
+</div>
+
+<h1 align="center">Vrishali Sahay</h1>
 
 ### About Me
 
@@ -19,8 +21,8 @@ This role has strengthened my skills in leadership, communication, and community
 ### Contact
 
 - GitHub: [sahayvrishali12](https://github.com/sahayvrishali12)  
-- LinkedIn: [vrishalis](https://www.linkedin.com/in/vrishalis)  
-- Medium (Blogs): [@sahayvrishali](https://medium.com/@sahayvrishali)  
+- LinkedIn: [linkedin.com/in/vrishalis](https://www.linkedin.com/in/vrishalis)  
+- Medium (Blogs): [medium.com/@sahayvrishali](https://medium.com/@sahayvrishali)  
 - Email: sahayvrishali@gmail.com
 
 ---
