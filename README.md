@@ -1,9 +1,10 @@
-<!-- Full-width Image -->
-<div align="center">
-  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3).png?raw=true" alt="Vrishali Sahay" style="width:100%; max-width:900px;" />
-</div>
-
-<h1 align="center">Vrishali Sahay</h1>
+<!-- Centered Image with 16:9 Aspect Ratio and Modest Size -->
+<p align="center">
+  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3).png?raw=true" 
+       alt="Vrishali Sahay" 
+       width="640" 
+       height="360" />
+</p>
 
 ### About Me
 
@@ -28,4 +29,4 @@ This role has strengthened my skills in leadership, communication, and community
 ---
 
 "Technology should empower, not exclude."  
-— Vrishali Sahay
+— Vrishali
