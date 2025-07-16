@@ -3,8 +3,6 @@
   <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3)-fotor-bg-remover-2025071611463.png?raw=true" alt="Vrishali Sahay" width="250"/>
 </p>
 
-<h1 align="center">Vrishali Sahay</h1>
-
 ### About Me
 
 I am a first-year B.Tech Computer Science and Engineering student at UPES.  
