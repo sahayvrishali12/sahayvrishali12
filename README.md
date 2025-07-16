@@ -1,15 +1,12 @@
-<!-- Centered Image with 16:9 Aspect Ratio and Modest Size -->
+<!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(3).png?raw=true" 
-       alt="Vrishali Sahay" 
-       width="640" 
-       height="360" />
+  <img src="https://github.com/sahayvrishali12/img-logo/blob/main/Vrishali%20Sahay%20(4)%20(1).png?raw=true" alt="Vrishali Sahay" width="250"/>
 </p>
 
 ### About Me
 
 I am a first-year B.Tech Computer Science and Engineering student at UPES.  
-Currently, I serve as the Editorial Head of the UPES ACM-W Student Chapter, where I lead the development of inclusive and impactful content that supports diversity in technology.  
+Currently, I serve as the Editorial Head of the UPES ACM-W Student Chapter, where I lead the development of impactful content for events and workshops that supports diversity in technology.  
 This role has strengthened my skills in leadership, communication, and community engagement.
 
 ### Interests
@@ -29,4 +26,4 @@ This role has strengthened my skills in leadership, communication, and community
 ---
 
 "Technology should empower, not exclude."  
-— Vrishali
+— Vrishali Sahay
