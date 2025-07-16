@@ -18,7 +18,6 @@ This role has strengthened my skills in leadership, communication, and community
 
 ### Contact
 
-- GitHub: [sahayvrishali12](https://github.com/sahayvrishali12)  
 - LinkedIn: [linkedin.com/in/vrishalis](https://www.linkedin.com/in/vrishalis)  
 - Medium (Blogs): [medium.com/@sahayvrishali](https://medium.com/@sahayvrishali)  
 - Email: sahayvrishali@gmail.com
