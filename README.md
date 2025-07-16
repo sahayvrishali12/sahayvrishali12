@@ -16,12 +16,6 @@ This role has strengthened my skills in leadership, communication, and community
 - Community building  
 - Diversity and inclusion in technology  
 
-### Contact
-
-- LinkedIn: [linkedin.com/in/vrishalis](https://www.linkedin.com/in/vrishalis)  
-- Medium (Blogs): [medium.com/@sahayvrishali](https://medium.com/@sahayvrishali)  
-- Email: sahayvrishali@gmail.com
-
 ---
 
 "Technology should empower, not exclude."  
