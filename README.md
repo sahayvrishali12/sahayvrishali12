@@ -19,4 +19,3 @@ This role has strengthened my skills in leadership, communication, and community
 ---
 
 "Technology should empower, not exclude."  
-— Vrishali Sahay
